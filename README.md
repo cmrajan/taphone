@@ -12,10 +12,10 @@ The algorithm takes into account the context sensitivity of sounds, syntactic an
 
 | Word       | Pronunciation | key0    | key1    | key2      |
 | ---------- | ------------- | ------- | ------- | --------- |
-| ಅಂಕೆಸಂಖ್ಯೆ | aŋkesaŋkhye   | A3KS3KY | A3KS3KY | A3K6S3KY6 |
-| ಊಱಿಸಾಱು    | ūṛisāṛu       | URSR    | UR1SR1  | UR14SR15  |
-| ಈರಿತ       | īrita         | IR0     | IR0     | IR40      |
-| ಒನಮಾಲೆ     | onamāle       | ONML    | ONML    | ONML6     |
+| தமிழ் 	|  |  TM3Z |  T1M3Z |  T1M3Z |
+| தமிழ்மொழி 	|  |  TM3ZMZ3 |  T1M3ZMZ3 |  T1M3ZM7Z3 |
+| பந்து 	|  |  PNT |  PNT1 |  PNT14 |
+| பந்தயம் 	|  |  PNTYM |  PNT1YM |  PNT1YM |
 
 ### Go implementation
 
