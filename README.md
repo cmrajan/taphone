@@ -40,10 +40,5 @@ func main() {
 ```
 
 License: GPLv3
-
-
-#cors
-headers / {
-Access-Control-Allow-Origin *
--Server
-}
+### Credits:
+This is based on KAphone (https://github.com/knadh/kaphone/) for Kannada
