@@ -41,4 +41,4 @@ func main() {
 
 License: GPLv3
 ### Credits:
-This is based on KAphone (https://github.com/knadh/kaphone/) for Kannada
+This is based on KNphone (https://github.com/knadh/knphone/) for Kannada
